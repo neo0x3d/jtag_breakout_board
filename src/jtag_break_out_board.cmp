@@ -1,0 +1,45 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Sun 19 Apr 2015 10:15:21 PM CEST
+
+BeginCmp
+TimeStamp = /55340BA9;
+Reference = Jumper1;
+ValeurCmp = CONN_3;
+IdModule  = 3P_Jumper;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532301D;
+Reference = U1;
+ValeurCmp = CONN_10X2;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /553233F7;
+Reference = U2;
+ValeurCmp = CONN_5X2;
+IdModule  = 2x5_9P_50mil_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /5532302C;
+Reference = U3;
+ValeurCmp = CONN_10X2;
+IdModule  = 2x10_JTAG_shrouded;
+EndCmp
+
+BeginCmp
+TimeStamp = /55323446;
+Reference = U4;
+ValeurCmp = CONN_10X2;
+IdModule  = 2x10_19P_50mil_smd;
+EndCmp
+
+BeginCmp
+TimeStamp = /55323392;
+Reference = U5;
+ValeurCmp = CONN_10X2;
+IdModule  = 2x10_JTAG_SWD_labeled;
+EndCmp
+
+EndListe
