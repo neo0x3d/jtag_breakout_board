@@ -1,4 +1,8 @@
 # jtag_breakout_board
+
+# This project has been moved to Gitlab: <https://gitlab.com/users/neo0x3d/projects>
+
+
 JTAG/SWD breakout board
 
 Accommodates following headers:
